@@ -75,8 +75,6 @@ public class PlaceInfo {
      d.setVisible(true);
      }
         }
-     /*public static void main(String[] args) throws Exception{
-        /*String venueName = "AL Rajhi Bank";
-        String venueCity = "Riyadh";*/
+     
         
 
